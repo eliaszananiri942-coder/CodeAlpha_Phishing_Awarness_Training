@@ -1,1 +1,4 @@
 # CodeAlpha_Phishing_Awarness_Training
+dear sir, for the internship task in this github repository for the CodeAlpha Phishing Awarness, i have added those videos after editing them and recording them on my desktop on kali linux as i simulated a real environment phishing into email using zphisher tool and third party website servers as anonymous email which i then received the email on a temp mail and then i simulated on a local host the phishing link as a fake facebook login page and i entered the proper credentials which i demonstrated that they were harvested, collected and added to the profile target from the attacker perspective which can lead to account take over and account compromise.
+following this i also made and edited a powerpoint phishing training presentation as demonstrated in the video plus made a little multi questions quiz for proper additional knowledge
+thank you so much CodeAlpha for this opportunity
